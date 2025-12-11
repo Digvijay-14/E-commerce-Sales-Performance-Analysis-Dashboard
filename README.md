@@ -1,6 +1,6 @@
 # 📊 Sales Performance Analysis Dashboard Using Power BI
 
-![Dashboard Preview](image/Dashboard.png)
+![Dashboard Preview](image/Dash2.png)
 
 
 ## 📘 Project Overview  
