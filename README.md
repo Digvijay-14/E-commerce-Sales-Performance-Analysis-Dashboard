@@ -1,6 +1,6 @@
 # 📊 E-commerce Sales Analysis Dashboard using Power BI
 
-![Dashboard Preview](image/Dash.png)
+![Dashboard Preview](image/dash.png)
 
 
 ## 📘 Project Overview  
