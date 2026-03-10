@@ -1,16 +1,16 @@
-# 📊 Sales Performance Analysis Dashboard Using Power BI
+# 📊 E-commerce Sales Analysis Dashboard using Power BI
 
-![Dashboard Preview](image/Dash2.png)
+![Dashboard Preview](image/Dash.png)
 
 
 ## 📘 Project Overview  
-This Power BI dashboard provides a **comprehensive analysis of sales performance** using interactive visualizations and key performance indicators (KPIs).  
+This Power BI dashboard provides a **comprehensive analysis of E-commerce sales performance** using interactive visualizations and key performance indicators (KPIs).  
 It enables business users to monitor **revenue, profit, quantity sold, and average order value (AOV)** across multiple dimensions such as *state, city, category, sub-category, customer,* and *payment mode.*
 
 ---
 
 ## 🎯 Objective  
-To design an interactive **Sales Performance Dashboard** that helps management track sales trends, identify top-performing areas, and make **data-driven business decisions.**
+To design an interactive **E-commerce Sales Analysis Dashboard using Power BI** that helps management track sales trends, identify top-performing areas, and make **data-driven business decisions.**
 
 ---
 
